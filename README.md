@@ -167,9 +167,9 @@ Smartphone:
 - hyperlinks from the pdf information documents in resources app are not working as designed
 
 ### 6. Future Features
-- ran out of time
-- not sure if viable
-- not confortable implementing
+- Add calendar helper to booking form
+- To allow user to select a date/time from a calendar
+- Currently, the user must enter date manually in correct format
 
 ### 7. Credit our Sources
 - images
